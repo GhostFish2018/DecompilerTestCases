@@ -2,7 +2,6 @@ using System.Runtime.InteropServices;
 
 namespace DecompilerTestCases
 {
-    [StructLayout(LayoutKind.Sequential)]
     public struct CustomStruct
     {
         public int FieldOne;

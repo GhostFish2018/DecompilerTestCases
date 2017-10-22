@@ -70,7 +70,8 @@
     <Compile Include="Paralleling.cs" />
     <Compile Include="PlatformInvoke.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UdocumentedFeatures.cs" />
+    <Compile Include="StructLayouts.cs" />
+    <Compile Include="UndocumentedFeatures.cs" />
     <Compile Include="Unsafe.cs" />
     <Compile Include="Usings.cs" />
   </ItemGroup>

@@ -2,7 +2,7 @@
 
 namespace DecompilerTestCases
 {
-    public class UdocumentedFeatures
+    public class UndocumentedFeatures
     {
         public static void ArgList(__arglist)
         {
